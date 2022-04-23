@@ -1,0 +1,75 @@
+html {
+    font-family: monospace;
+    background-color: rgb(230, 200, 173);
+}
+div.title {
+    background-color: #FBF8F1;
+    color: #40717A;
+    
+        font-size: xx-large;
+        text-align: center;
+
+    border-style: solid;
+    border-color: #A86741;
+    border-width: 10px ;
+    border-radius: 50px ;
+    width: 25em;
+    height: 132px;
+
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-top: -430px;
+        margin-left: -340px;
+}
+div.name-occupation {
+    background-color: #FBF8F1;
+    color: #40717A;
+    
+        font-size: large;
+        text-align: center;
+
+    border-style: solid;
+    border-color: #A86741;
+    border-width: 10px ;
+    width: 25em;
+    height: 132px;
+
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 1384px;
+}
+img {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 735px;
+
+    border-style: solid;
+    border-color: #40717A;
+    border-width: 20px ;
+}
+div.aboutme {
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 1460px;
+    inline-size: 300px;
+    overflow-wrap: break-word;
+}
+div.contactme {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 1465px;
+}
+div.projects {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 255px;
+    font-size: x-large;
+}
+p.fullstack {
+    position: absolute; 
+    margin-top: 750px; 
+    margin-left: 655px;
+    font-size:large;
+    text-decoration: underline;
+}
