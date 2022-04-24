@@ -40,13 +40,13 @@ div.name-occupation {
     margin-left: 1384px;
 }
 img {
-    position: absolute;
-    margin-top: 280px;
-    margin-left: 735px;
-
     border-style: solid;
     border-color: #40717A;
     border-width: 20px ;
+    
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 735px;
 }
 div.aboutme {
     position: absolute;
@@ -61,15 +61,17 @@ div.contactme {
     margin-left: 1465px;
 }
 div.projects {
+    font-size: x-large;
+    
     position: absolute;
     margin-top: 400px;
     margin-left: 255px;
-    font-size: x-large;
 }
 p.fullstack {
+    font-size:large;
+    text-decoration: underline;
+    
     position: absolute; 
     margin-top: 750px; 
     margin-left: 655px;
-    font-size:large;
-    text-decoration: underline;
 }
